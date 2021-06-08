@@ -1,0 +1,85 @@
+.body {
+    width: 100%;
+    background-color: lightsteelblue;
+    align-items: center;
+}
+
+#jumbotron1 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    text-align: center;
+
+}
+
+.inline {
+    display: inline-flex;
+    align-items: center;
+}
+
+.historia {
+    padding: 10px;
+    text-align: justify;
+}
+
+.depoimentosTit {
+    position: relative;
+    top: 0 px;
+    right: 0;
+    left: 0;
+    width: 300px;
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: auto;
+    background-color: red;
+    color: white;
+}
+
+#jumbotron2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 0%;
+    padding-left: 0;
+    text-align: center;
+}
+
+.socialMedia {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#align_left {
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+.video-historia {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.map{
+    margin-top: 10px;
+}
+#img_hist{
+    justify-content: space-between;
+}
+
+.card_cursos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.cursos{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact{
+    margin: 10px;
+}
