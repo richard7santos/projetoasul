@@ -5,7 +5,7 @@
 }
 
 #jumbotron1 {
-    width: 80%;
+    width: 80vw;
     margin-left: auto;
     margin-right: auto;
     padding-top: 5%;
@@ -21,6 +21,7 @@
 .historia {
     padding: 10px;
     text-align: justify;
+    
 }
 
 .depoimentosTit {
@@ -83,3 +84,16 @@
 .contact{
     margin: 10px;
 }
+#cursos{
+    width:60vw;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button_voltar{
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    bottom: 10%;
+}
+
