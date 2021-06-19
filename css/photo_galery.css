@@ -39,4 +39,6 @@
   .photo-gallery .item {
     padding-bottom:30px;
   }
-  
+  #large{
+    max-width: 700px;
+  }

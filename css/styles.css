@@ -5,7 +5,7 @@
 }
 
 #jumbotron1 {
-    width: 80%;
+    width: 80vw;
     margin-left: auto;
     margin-right: auto;
     padding-top: 5%;
@@ -21,6 +21,16 @@
 .historia {
     padding: 10px;
     text-align: justify;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.text_index {
+    padding: 10px;
+    text-align: justify;
+
 }
 
 .depoimentosTit {
@@ -62,24 +72,68 @@
     margin-left: auto;
     margin-right: auto;
 }
-.map{
+
+.map {
     margin-top: 10px;
 }
-#img_hist{
+
+#img_hist {
     justify-content: space-between;
 }
 
-.card_cursos{
+.card_cursos {
     display: flex;
     align-items: center;
     justify-content: space-between;
 
 }
-.cursos{
+
+.cursos {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
-.contact{
+
+.contact {
     margin: 10px;
+}
+
+#cursos {
+    width: 60vw;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button_voltar {
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    bottom: 10%;
+}
+
+figure {
+    float: left;
+    margin: 50px;
+    ;
+}
+
+.contact-rest {
+    width: 90%;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgoldenrod;
+}
+
+.parceira{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.curso-libras{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
